@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sudarshan-tech.github.io/csb-y490t/static/css/main.25e6a2a4.chunk.css",
+    "main.js": "https://sudarshan-tech.github.io/csb-y490t/static/js/main.16936047.chunk.js",
+    "main.js.map": "https://sudarshan-tech.github.io/csb-y490t/static/js/main.16936047.chunk.js.map",
+    "runtime-main.js": "https://sudarshan-tech.github.io/csb-y490t/static/js/runtime-main.e840a998.js",
+    "runtime-main.js.map": "https://sudarshan-tech.github.io/csb-y490t/static/js/runtime-main.e840a998.js.map",
+    "static/js/2.4e920144.chunk.js": "https://sudarshan-tech.github.io/csb-y490t/static/js/2.4e920144.chunk.js",
+    "static/js/2.4e920144.chunk.js.map": "https://sudarshan-tech.github.io/csb-y490t/static/js/2.4e920144.chunk.js.map",
+    "index.html": "https://sudarshan-tech.github.io/csb-y490t/index.html",
+    "static/css/main.25e6a2a4.chunk.css.map": "https://sudarshan-tech.github.io/csb-y490t/static/css/main.25e6a2a4.chunk.css.map",
+    "static/js/2.4e920144.chunk.js.LICENSE.txt": "https://sudarshan-tech.github.io/csb-y490t/static/js/2.4e920144.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e840a998.js",
+    "static/js/2.4e920144.chunk.js",
+    "static/css/main.25e6a2a4.chunk.css",
+    "static/js/main.16936047.chunk.js"
+  ]
+}
